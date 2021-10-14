@@ -1,4 +1,4 @@
-package team.zerohouse.map.bases.notes;
+package team.zerohouse.map.based.notes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
